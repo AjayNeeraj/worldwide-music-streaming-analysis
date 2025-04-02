@@ -22,7 +22,7 @@ This project explores **global music streaming trends** using real-world data. I
 
 ## 🚀 How to Run  
 ```bash
-git clone <your-repo-URL>
+git clone <https://github.com/AjayNeeraj/worldwide-music-streaming-analysis>
 cd music-streaming-analysis
 pip install -r requirements.txt
 jupyter notebook
