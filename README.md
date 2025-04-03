@@ -17,7 +17,7 @@ The goal is to **uncover user behavior patterns, identify key engagement metrics
 
 ---
 
-## 📊 Dataset Overview  
+## Dataset Overview  
 - **Source:** [Kaggle - Worldwide Music Streaming Trends](https://www.kaggle.com/)  
 - **Size:** 5,000 entries  
 - **Key Features:**  
@@ -32,7 +32,7 @@ The goal is to **uncover user behavior patterns, identify key engagement metrics
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)  
+## Exploratory Data Analysis (EDA)  
 Key insights and visualizations include:  
 ✅ **Streams Distribution:** Users streamed music mostly in the afternoon, with peak hours between **3 PM - 8 PM**.  
 ✅ **Top Songs & Artists:** **Pop and Hip-Hop** dominated the most streamed songs list.  
@@ -46,7 +46,7 @@ Key insights and visualizations include:
 
 ---
 
-## 🏗️ Feature Engineering & Modeling  
+## Feature Engineering & Modeling  
 🔹 **Key Steps Taken:**  
 1️⃣ **Data Cleaning & Normalization:** Removed missing values, standardized numerical columns.  
 2️⃣ **Feature Selection:** Focused on engagement metrics like **Minutes Streamed Per Day**, **Number of Songs Liked**, and **Repeat Song Rate (%)**.  
@@ -59,14 +59,14 @@ Key insights and visualizations include:
 
 ---
 
-## 🎯 Findings & Business Insights  
+## Findings & Business Insights  
 💡 **For Streaming Platforms:** Prioritize **personalized recommendations** for users with a high **repeat song rate**.  
 💡 **For Artists & Labels:** Marketing campaigns should target **peak streaming hours (Afternoon & Evening)**.  
 💡 **For Product Teams:** **Subscription-based users** have higher engagement than free-tier users.  
 
 ---
 
-## 🚀 Project Setup  
+## Project Setup  
 
 ### 🔹 **Requirements**  
 Ensure you have the following installed:  
@@ -92,7 +92,7 @@ jupyter notebook
 
 ---
 
-## 📌 Final Deliverables  
+## Final Deliverables  
 📁 `notebooks/music_streaming_analysis.ipynb` – Jupyter Notebook with full analysis.  
 📁 `data/worldwide_music_streaming` – Raw dataset.  
 📁 `data/cleaned_music_data.csv` – Preprocessed dataset.  
@@ -100,7 +100,7 @@ jupyter notebook
 
 ---
 
-## 🚀 Future Work  
+## Future Work  
 - 📌 **Improve the model** by testing **other algorithms** (e.g., XGBoost, LSTM).  
 - 📌 **Expand dataset size** to analyze more granular trends.  
 - 📌 **Deploy as an interactive dashboard** (Streamlit or Flask).  
