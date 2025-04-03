@@ -18,7 +18,7 @@ The goal is to **uncover user behavior patterns, identify key engagement metrics
 ---
 
 ## Dataset Overview  
-- **Source:** [Kaggle - Worldwide Music Streaming Trends](https://www.kaggle.com/)  
+- **Source:** [Kaggle - Worldwide Music Streaming Trends](https://www.kaggle.com/datasets/atharvasoundankar/global-music-streaming-trends-and-listener-insights)  
 - **Size:** 5,000 entries  
 - **Key Features:**  
   - `User_ID` (Unique identifier)  
@@ -42,7 +42,7 @@ Key insights and visualizations include:
   - **Discover Weekly Engagement (%)** has a weak correlation with streaming time.  
 
 📊 **Sample Visualization:**  
-![Streams Distribution](visualizations/streams_distribution.png)  
+![Streams Distribution](https://github.com/AjayNeeraj/worldwide-music-streaming-analysis/blob/main/visualizations/Streams%20Distribution.png)  
 
 ---
 
@@ -53,9 +53,6 @@ Key insights and visualizations include:
 3️⃣ **Predictive Modeling (Random Forest Regressor):**  
    - **Goal:** Predict user engagement based on streaming behavior.  
    - **Result:** The model identified **Repeat Song Rate (%)** as the most influential factor.  
-
-📊 **Feature Importance Visualization:**  
-![Feature Importance](visualizations/feature_importance.png)  
 
 ---
 
