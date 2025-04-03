@@ -42,7 +42,7 @@ Key insights and visualizations include:
   - **Discover Weekly Engagement (%)** has a weak correlation with streaming time.  
 
 📊 **Sample Visualization:**  
-![Streams Distribution](https://github.com/AjayNeeraj/worldwide-music-streaming-analysis/blob/main/visualizations/Streams%20Distribution.png)  
+![Streams Distribution](https://github.com/AjayNeeraj/worldwide-music-streaming-analysis/blob/main/visualizations/Top%20Regions.png)  
 
 ---
 
@@ -53,6 +53,9 @@ Key insights and visualizations include:
 3️⃣ **Predictive Modeling (Random Forest Regressor):**  
    - **Goal:** Predict user engagement based on streaming behavior.  
    - **Result:** The model identified **Repeat Song Rate (%)** as the most influential factor.  
+
+📊 **Feature Importance Visualization:**  
+![Feature Importance](visualizations/feature_importance.png)  
 
 ---
 
