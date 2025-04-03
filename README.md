@@ -55,7 +55,7 @@ Key insights and visualizations include:
    - **Result:** The model identified **Repeat Song Rate (%)** as the most influential factor.  
 
 📊 **Feature Importance Visualization:**  
-![Feature Importance](visualizations/feature_importance.png)  
+![Feature Importance](https://github.com/AjayNeeraj/worldwide-music-streaming-analysis/blob/main/visualizations/Feature%20Importance%20in%20Random%20Forest%20Model.png)  
 
 ---
 
